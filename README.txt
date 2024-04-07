@@ -1,8 +1,10 @@
-Leland Wendel - CS 260 
+Leland Wendel
+CS 260 - Data Structures
 Spring 2024
+LBCC
 _______________________________________________________________________________
 
-Assignment 0:
+Assignment 0: Basic System Access
 
 Five Topics of Interest:
 	1. Data Structures
@@ -17,13 +19,11 @@ Five Challenging Topics:
 	3. Algorithms 
 	4. Coding
 	5. New Language (c++)
-
-
-(Created the repository, but have not uploaded anything yet.)
-https://github.com/Ljwendel/CS-260
 ________________________________________________________________________________
 
 Assignment 1: Bag of Marbles
+
+
 
 
 
