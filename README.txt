@@ -86,7 +86,7 @@ _______________________________________________________________________________
 
 Assignment 3: Linked Queue
 
-See README text file in assignment3 folder for details and screenshots of the program functioning.
+See README.pdf in assignment3 folder for details and screenshots of the program functioning.
 _______________________________________________________________________________
 
 
