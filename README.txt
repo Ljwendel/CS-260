@@ -80,6 +80,9 @@ What values will we need to know about the structure for our list to function pr
 -tail pointer - points to the last node of the list
 -length - returns the number of nodes in the list
 -nodes - each node has a value and pointers to the adjacent nodes
+_______________________________________________________________________________
+
+
 
 
 
