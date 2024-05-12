@@ -89,6 +89,11 @@ Assignment 3: Linked Queue
 See README.pdf in assignment3 folder for details and screenshots of the program functioning.
 _______________________________________________________________________________
 
+Assignment 4: Arbitrary List Operations
+
+See README.pdf in assignment4 folder for details and screenshots of the program functioning.
+_______________________________________________________________________________
+
 
 
 
