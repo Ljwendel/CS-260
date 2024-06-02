@@ -94,7 +94,10 @@ Assignment 4: Arbitrary List Operations
 See README.pdf in assignment4 folder for details and screenshots of the program functioning.
 _______________________________________________________________________________
 
+Assignment 5: Auto-sorting List Operations
 
+See README.pdf in assignment4 folder for details and screenshots of the program functioning.
+_______________________________________________________________________________
 
 
 
